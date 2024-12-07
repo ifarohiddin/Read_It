@@ -1,16 +1,12 @@
-# Read_It
+Read It
 
-Read it loyihasi uchun yaratilgan web sahifalat  
+Loyihaning birinchi yaratilgan versiyasi.
+Bu boshlang'ich versiya bo'lib, asosiy funksionalliklarni sinashga xizmat qiladi.
+Read It 2
 
-#Read It
+Birinchi versiyaning yaxshilangan varianti.
+Kamchiliklar mavjud, bu esa ishlab chiqish jarayonida hali ko'proq tahrirlar kerakligini ko'rsatadi.
+Read It Another
 
-birinchi tayyorlangan 
-
-#Read it 2 
-
-bu birinchi veb sahifaning yahshilangan variantikamchiliklar bor
-
-#Read it another
-
-bu read it ning alohida versiyasi
-
+"Read It" loyihasining alohida versiyasi.
+Github uchun mo'ljallangan, ya'ni ehtimol, loyiha jamoa bilan ishlash yoki kodni ochiq manba sifatida taqdim qilish uchun tayyorlanmoqda.
